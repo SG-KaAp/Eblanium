@@ -10,45 +10,6 @@ EndScene oEndScene = NULL;
 WNDPROC oWndProc;
 static HWND window = NULL;
 
-int ScrX = GetSystemMetrics(SM_CXSCREEN);
-int ScrY = GetSystemMetrics(SM_CYSCREEN);
-
-/*bool WorldToScreen(Vec3 pos, Vec2& screen, float matrix[16], int w, int h) {
-	Vec4 clipCords;
-	clipCords.x = pos.x * matrix[0] + pos.y * matrix[1] + pos.z * matrix[2] + matrix[3];
-	clipCords.y = pos.x * matrix[4] + pos.y * matrix[5] + pos.z * matrix[6] + matrix[7];
-	clipCords.z = pos.x * matrix[8] + pos.y * matrix[9] + pos.z * matrix[10] + matrix[11];
-	clipCords.w = pos.x * matrix[12] + pos.y * matrix[13] + pos.z * matrix[14] + matrix[15];
-
-	if (clipCords.w < 0.1f) {
-		return false;
-	};
-
-	Vec3 NDC;
-	NDC.x = clipCords.x / clipCords.w;
-	NDC.y = clipCords.y / clipCords.w;
-	NDC.z = clipCords.z / clipCords.w;
-	
-	screen.x = (w / 2 * NDC.x) + (NDC.x + w / 2);
-	screen.y = (h / 2 * NDC.y) + (NDC.y + h / 2);
-
-	return true;
-};
-
-Vec2 GetBonePosition(uintptr_t, Entity, int bone) {
-	uintptr_t BoneMatrix_base = *(uintptr_t*)(Entity + m_dwBoneMatrix);
-	BoneMatrix_t Bone = *(BoneMatrix_t*)(BoneMatrix_Base + sizeof(Bone) * bone);
-	Vec3 Location = (Bone.x, Bone.y, Bone.Z);
-	Vec2 SCords;
-	float VMatrix[16];
-	memcpy(&VMatrix, (PBYTE*)(BaseAddress + dwViewMatrix), sizeof(VMatrix));
-	if (WorldToScreen(Location, SCords, VMatrix, ScrX, ScrY)) {
-		return SCords;
-	};
-
-	return { 0,0 }
-};*/
-
 void InitImGui(LPDIRECT3DDEVICE9 pDevice)
 {
 	ImGui::CreateContext();
@@ -56,36 +17,23 @@ void InitImGui(LPDIRECT3DDEVICE9 pDevice)
 	io.ConfigFlags = ImGuiConfigFlags_NoMouseCursorChange;
 	ImGui_ImplWin32_Init(window);
 	ImGui_ImplDX9_Init(pDevice);
-	ImGui::StyleColorsDark(); // Используйте темную тему
+	ImGui::MyStyleColors();
 
 	ImGuiStyle* style = &ImGui::GetStyle();
-	ImVec4* colors = style->Colors;
-	colors[ImGuiCol_TitleBgActive] = ImVec4(0.f, 0.1f, 0.f, 0.31f);
-	colors[ImGuiCol_WindowBg] = ImVec4(0.f, 0.5f, 0.f, 0.94f);
 	style->WindowBorderSize = 5.0f;
 	style->WindowRounding = 10.0f;
 }
 
 bool init = false;
-bool esp = false;
-bool espbox = false;
-
-float boxw = 0.5f;
-int boxthic = 2;
-
 bool menu = false;
+int curTab = 0;
+
 long __stdcall hkEndScene(LPDIRECT3DDEVICE9 pDevice)
 {
 	if (!init)
 	{
 		InitImGui(pDevice);
 		init = true;
-	}
-
-	if (GetAsyncKeyState(VK_END))
-	{
-		kiero::shutdown();
-		return 0;
 	}
 
 	if (GetAsyncKeyState(VK_DELETE) & 1)
@@ -98,9 +46,14 @@ long __stdcall hkEndScene(LPDIRECT3DDEVICE9 pDevice)
 		ImGui_ImplDX9_NewFrame();
 		ImGui_ImplWin32_NewFrame();
 		ImGui::NewFrame();
-
 		ImGui::Begin("Eblanium");
-		ImGui::Checkbox("Esp", &esp);
+		ImGui::SetWindowSize(ImVec2(640, 320));
+		if (ImGui::Button("Tahnut", ImVec2(205.f, 20.f))) curTab = 0;
+		ImGui::SameLine(0.f, 2.f);
+		if (ImGui::Button("Trahnut", ImVec2(205.f, 20.f))) curTab = 1;
+		ImGui::SameLine(0.f, 2.f);
+		if (ImGui::Button("Tahnut3", ImVec2(205.f, 20.f))) curTab = 2;
+		ImGui::SameLine(0.f, 2.f);
 		ImGui::End();
 
 		ImGui::EndFrame();

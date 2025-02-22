@@ -7,20 +7,44 @@
       "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17C40622-5E19-4643-B205-71524E763D6B}|EblaniumInjector\\EblaniumInjector.vcxproj|E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17C40622-5E19-4643-B205-71524E763D6B}|EblaniumInjector\\EblaniumInjector.vcxproj|solutionrelative:EblaniumInjector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imconfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imconfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_widgets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imgui_widgets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\imgui\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|E:\\Cheat Projects\\Eblanium\\Eblanium\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11EA4A46-DC32-4A58-8C1F-5337BE049D85}|Eblanium\\Eblanium.vcxproj|solutionrelative:Eblanium\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C40622-5E19-4643-B205-71524E763D6B}|EblaniumInjector\\EblaniumInjector.vcxproj|E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C40622-5E19-4643-B205-71524E763D6B}|EblaniumInjector\\EblaniumInjector.vcxproj|solutionrelative:EblaniumInjector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cheat Projects\\Eblanium\\GameSense\\imgui\\imgui_tabs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,64 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "imgui.cpp",
-              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.cpp",
-              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui.cpp",
-              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.cpp",
-              "RelativeToolTip": "Eblanium\\imgui\\imgui.cpp",
-              "ViewState": "AgIAABwFAAAAAAAAAAAUwCYFAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-22T18:58:17.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "imgui_draw.cpp",
-              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp",
-              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui_draw.cpp",
-              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp",
-              "RelativeToolTip": "Eblanium\\imgui\\imgui_draw.cpp",
-              "ViewState": "AgIAAOUAAAAAAAAAAAArwPwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-22T18:49:29.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "includes.h",
-              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\includes.h",
-              "RelativeDocumentMoniker": "Eblanium\\includes.h",
-              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\includes.h",
-              "RelativeToolTip": "Eblanium\\includes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-22T18:20:05.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp",
-              "RelativeDocumentMoniker": "EblaniumInjector\\main.cpp",
-              "ToolTip": "E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp",
-              "RelativeToolTip": "EblaniumInjector\\main.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAkwEkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-22T17:20:52.804Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -120,14 +88,137 @@
               "RelativeDocumentMoniker": "Eblanium\\main.cpp",
               "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\main.cpp",
               "RelativeToolTip": "Eblanium\\main.cpp",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwD4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-22T16:58:55.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "imstb_rectpack.h",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imstb_rectpack.h",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imstb_rectpack.h",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imstb_rectpack.h",
+              "RelativeToolTip": "Eblanium\\imgui\\imstb_rectpack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T20:30:51.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "imgui.h",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.h",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui.h",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.h",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui.h",
+              "ViewState": "AgIAAE4BAAAAAAAAAADgv2YBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T20:33:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "imgui_demo.cpp",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_demo.cpp",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui_demo.cpp",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_demo.cpp",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui_demo.cpp",
+              "ViewState": "AgIAAMMeAAAAAAAAAADgv9oeAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T20:32:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "imgui_widgets.cpp",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_widgets.cpp",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui_widgets.cpp",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_widgets.cpp",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui_widgets.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T20:31:27.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "imconfig.h",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imconfig.h",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imconfig.h",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imconfig.h",
+              "RelativeToolTip": "Eblanium\\imgui\\imconfig.h",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T20:31:06.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "imgui_internal.h",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_internal.h",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui_internal.h",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_internal.h",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui_internal.h",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAiwBwBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T20:30:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.cpp",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui.cpp",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui.cpp",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui.cpp",
+              "ViewState": "AgIAADYDAAAAAAAAAADgv0wDAADyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T18:58:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imgui_draw.cpp",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp",
+              "RelativeDocumentMoniker": "Eblanium\\imgui\\imgui_draw.cpp",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\imgui\\imgui_draw.cpp",
+              "RelativeToolTip": "Eblanium\\imgui\\imgui_draw.cpp",
+              "ViewState": "AgIAAHMBAAAAAAAAAADgv4ABAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T18:49:29.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "includes.h",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\Eblanium\\includes.h",
+              "RelativeDocumentMoniker": "Eblanium\\includes.h",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\Eblanium\\includes.h",
+              "RelativeToolTip": "Eblanium\\includes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T18:20:05.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "imgui_tabs.h",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\imgui\\imgui_tabs.h",
               "RelativeDocumentMoniker": "GameSense\\imgui\\imgui_tabs.h",
@@ -138,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "structures.h",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\structures.h",
               "RelativeDocumentMoniker": "GameSense\\structures.h",
@@ -150,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\main.cpp",
               "RelativeDocumentMoniker": "GameSense\\main.cpp",
@@ -161,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "imgui_demo.cpp",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\imgui\\imgui_demo.cpp",
               "RelativeDocumentMoniker": "GameSense\\imgui\\imgui_demo.cpp",
@@ -173,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "imgui.cpp",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\imgui\\imgui.cpp",
               "RelativeDocumentMoniker": "GameSense\\imgui\\imgui.cpp",
@@ -185,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "includes.h",
               "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\GameSense\\includes.h",
               "RelativeDocumentMoniker": "GameSense\\includes.h",
@@ -193,6 +284,18 @@
               "RelativeToolTip": "GameSense\\includes.h",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-21T21:12:01.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp",
+              "RelativeDocumentMoniker": "EblaniumInjector\\main.cpp",
+              "ToolTip": "E:\\Cheat Projects\\Eblanium\\EblaniumInjector\\main.cpp",
+              "RelativeToolTip": "EblaniumInjector\\main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T17:20:52.804Z"
             }
           ]
         }

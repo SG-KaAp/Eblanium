@@ -15,4 +15,5 @@ E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17): warning C4473: "sca
       E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17):
       этот аргумент используется в качестве размера буфера
   
+  LINK : не найден или не выполнена сборка E:\Cheat Projects\Eblanium\x64\Debug\EblaniumInjector.exe при последней инкрементной компоновке; выполняется полная компоновка
   EblaniumInjector.vcxproj -> E:\Cheat Projects\Eblanium\x64\Debug\EblaniumInjector.exe
