@@ -1,0 +1,18 @@
+﻿  main.cpp
+E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(57,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(57,13):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(57,13):
+      отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(57,13):
+      этот аргумент используется в качестве размера буфера
+  
+E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17):
+      отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+      E:\Cheat Projects\Eblanium\EblaniumInjector\main.cpp(71,17):
+      этот аргумент используется в качестве размера буфера
+  
+  EblaniumInjector.vcxproj -> E:\Cheat Projects\Eblanium\x64\Debug\EblaniumInjector.exe
